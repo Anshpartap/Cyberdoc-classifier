@@ -1,0 +1,9 @@
+streamlit
+joblib
+torch
+numpy
+transformers
+xgboost
+shap
+PyPDF2
+python-docx
