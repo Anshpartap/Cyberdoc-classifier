@@ -7,3 +7,4 @@ xgboost
 shap
 PyPDF2
 python-docx
+matplotlib
